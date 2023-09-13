@@ -1,4 +1,4 @@
-
+import re as _re
 
 
 def get_sexagecimal(secs: float, /, include_ms: bool = False) -> str:
